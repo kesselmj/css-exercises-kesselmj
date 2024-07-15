@@ -1,0 +1,20 @@
+.classone {
+    color: black;
+    background-color: lightcoral;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.classone.variation {
+    font-size: 24px;
+}
+
+#idone {
+    color: blue;
+    font-size: 36px;
+}
+
+#idtwo {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
